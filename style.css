@@ -1,0 +1,36 @@
+#main{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;  
+height: 90vh;  
+text-align: center;
+}
+
+.container{
+    background-color: whitesmoke;
+    width: 30%;
+    height: 40%;
+    border-radius: 15px;
+}
+
+.container h1{
+    margin-bottom: 1rem;
+}
+
+#number{
+    display: block;
+    color: orangered;
+    font-size: 5rem;
+    margin-bottom: 1rem;
+}
+
+#genrannumber{
+    border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    font-size: 1rem;
+    font-weight: bolder;
+}
